@@ -1,6 +1,6 @@
 const Blockchain = require("./blockchain");
 const Block = require("./block");
-
+// this is the block chain tests
 describe("Blockchain", () => {
   let blockchain;
 
